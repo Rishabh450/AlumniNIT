@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145290840611",
+    "firebase_url": "https://alumninitjsr-d3ce3.firebaseio.com",
+    "project_id": "alumninitjsr-d3ce3",
+    "storage_bucket": "alumninitjsr-d3ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145290840611:android:a022814663435a79d1ff96",
+        "android_client_info": {
+          "package_name": "com.meet2018_final.alumninitjsr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145290840611-r3q7k8mgr3v6cu4r9n7fk6gh2pb55net.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meet2018_final.alumninitjsr",
+            "certificate_hash": "82662a7b6a4b77ec48aceb485a148770f134e69b"
+          }
+        },
+        {
+          "client_id": "145290840611-db7kl30eqemdf077lmdu8dmhnbgdcsbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyuIvT2EFfMaNLZ55yk2AYhoCfn4uj10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145290840611-db7kl30eqemdf077lmdu8dmhnbgdcsbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

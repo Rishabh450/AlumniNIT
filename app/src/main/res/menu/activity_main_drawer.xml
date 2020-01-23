@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/assist"
+
+            android:title="Gallery" />
+        <item
+            android:id="@+id/hall_of_fame"
+            android:icon="@drawable/register"
+            android:title="Hall Of Fame" />
+        <item
+            android:id="@+id/events"
+            android:icon="@drawable/feed"
+            android:title="Events" />
+        <item
+            android:id="@+id/Profile"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/fund_raising"
+            android:icon="@drawable/fund"
+            android:title="Fund Raising" />
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/about"
+            android:title="About us" />
+        <item
+            android:id="@+id/privacy_policy"
+            android:icon="@drawable/policy"
+            android:title="Privacy Policy" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/sign"
+            android:title="logout" />
+    </group>
+
+
+
+</menu>
